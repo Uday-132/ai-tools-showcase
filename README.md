@@ -23,7 +23,7 @@ A modern React showcase application for discovering and exploring AI tools with 
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Uday-132/ai-tools-showcase.git
    cd ai-tools-showcase
    ```
 
